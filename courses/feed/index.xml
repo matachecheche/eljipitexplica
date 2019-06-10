@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cursos &#8211; El Jipi Te Explica</title>
+	<atom:link href="https://eljipitexplica.club/courses/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eljipitexplica.club</link>
+	<description>¿Tienes dudas? El Jipi te las despeja</description>
+	<lastBuildDate>Mon, 10 Jun 2019 16:20:09 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
+	<item>
+		<title>Kanji Noken 5 con Dibujos</title>
+		<link>https://eljipitexplica.club/course/kanji-noken-5-con-dibujos/</link>
+				<pubDate>Fri, 07 Jun 2019 14:31:15 +0000</pubDate>
+		<dc:creator><![CDATA[cesarsilva0524]]></dc:creator>
+		
+		<guid isPermaLink="false">https://eljipitexplica.club/?post_type=lp_course&#038;p=5</guid>
+				<description><![CDATA[..<div class="clear-fix"></div><a href="https://eljipitexplica.club/course/kanji-noken-5-con-dibujos/" title="read more...">Read more</a>]]></description>
+								<content:encoded><![CDATA[..<div class="clear-fix"></div><a href="https://eljipitexplica.club/course/kanji-noken-5-con-dibujos/" title="read more...">Read more</a>]]></content:encoded>
+										</item>
+	</channel>
+</rss>
